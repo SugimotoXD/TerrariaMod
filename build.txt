@@ -1,0 +1,3 @@
+displayName = Glory of gods
+author = ValenwoodTeam
+version = 0.1
